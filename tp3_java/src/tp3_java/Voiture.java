@@ -11,7 +11,6 @@ public class Voiture extends Vehicule {
 	}
 	
 	
-	
 	@Override
 	public void stationner() {
 		System.out.println("La voiture se gard dans une pace standard.");
